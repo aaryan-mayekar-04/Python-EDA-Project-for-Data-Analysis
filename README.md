@@ -44,4 +44,13 @@ This project analyzes Diwali-season sales data from a retail mall selling food, 
 
 3.] Customer segments such as young adults and families contribute notably to overall revenue.
 
-🎯 The combination of preprocessing and EDA provides meaningful, data-backed insights that can help retailers optimize inventory, marketing strategies, and promotional planning for future festive seasons.
+The combination of preprocessing and EDA provides meaningful, data-backed insights that can help retailers optimize inventory, marketing strategies, and promotional planning for future festive seasons.
+
+🤝 Contributing
+
+Contributions, suggestions, and new business questions are welcome!
+Feel free to submit an issue or open a pull request.
+
+⭐ Support
+
+If you found this project helpful or insightful, please consider giving it a star ⭐ to support its visibility!
